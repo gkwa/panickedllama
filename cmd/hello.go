@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"github.com/spf13/cobra"
 	"github.com/gkwa/panickedllama/core"
+	"github.com/spf13/cobra"
 )
 
 // helloCmd represents the hello command
